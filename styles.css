@@ -1,0 +1,20 @@
+*{ 
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.container{
+    margin-bottom: 30px;
+    padding: 15%;
+    width: 320%;
+    position: relative;
+    display: inline-block;
+    margin-left: 26px;
+}
+.div{
+    height: 1px;
+    margin: 20px 0;
+}
+.container-3{
+    padding: 15%;
+}
